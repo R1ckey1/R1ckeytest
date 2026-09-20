@@ -61,10 +61,7 @@ entities:
   - uid: 1
     components:
     - type: MetaData
-      name: grid
-    - type: Transform
-      parent: invalid
-      pos: -0.25600815,-0.578125
+      name: Martyr
     - type: MapGrid
       chunks:
         0,0:
