@@ -6,7 +6,7 @@
   id: Martyr
   parent: BaseVessel
   name: AVM Martyr
-  description: A compact, heavy hitting brawler; the AVM Martyr is a medium-class, FTL capable combat vessel. Lightly armored, and sporting heavy fire-power, it's the first choice from the Argent Vessel Matrix for upstart drone hunters.
+  description: A compact heavy hitting brawler, The AVM Martyr is a medium-class, FTL capable combat vessel. Lightly armored, and sporting heavy firepower, it's the first choice from the Argent Vessel Matrix for upstart drone hunters.
   price: 115000
   category: Medium
   group: Military
