@@ -52,6 +52,9 @@ uplink-security-6-8x52mm-box-desc = A box containing 240 rounds of 6.8x52 casele
 uplink-security-8x65mm-skr-box-name = 8x65mm SKR Ammo Box
 uplink-security-8x65mm-skr-box-desc = A box containing 100 rounds of 8x65mm SKR FMJ.
 
+uplink-security-185x76mm-ammo-bundle-name = 18.5x76mm Ammo Bundle
+uplink-security-185x76mm-ammo-bundle-desc = A duffle crammed full of various 18.5x76mm magazines and ammo boxes.
+
 uplink-security-Magazine45ACPPistolFMJ-name = .45 ACP Pistol Magazines
 uplink-security-Magazine45ACPPistolFMJ-desc = A box containing 4 filled .45 ACP magazines.
 uplink-security-Magazine45ACPPistolFMJ-rubber-name = .45 ACP Pistol Rubber Magazines
@@ -68,6 +71,8 @@ uplink-security-8x65mm-skr-magazine-name = 8x65mm SKR FMJ Magazines
 uplink-security-8x65mm-skr-magazine-desc = A box containing 4 8x65mm SKR FMJ magazines.
 uplink-security-wt550-magazine-name = 4.6x30mm Top-mounted Magazines
 uplink-security-wt550-magazine-desc = A box containing 4 filled 4.6x30mm top-mounted magazines.
+uplink-security-185x76mm-magazine-EMP-name = 18.5x76mm EMP Magazines
+uplink-security-185x76mm-magazine-EMP-desc = A box containing 4 18.5x76mm EMP magazines.
 
 uplink-security-hypo-name = Hypospray
 uplink-security-hypo-desc = A sterile medical injector for instant delivery of medications.
@@ -152,14 +157,11 @@ uplink-security-lake-desc = A China Lake pattern grenade launcher modified to on
 uplink-security-gun-mk58-name = MA Mk-58 Bundle
 uplink-security-gun-mk58-desc = Case containing a standard-issue pistol and reserve ammunition.
 
-uplink-security-gun-lecter-name = M-7 "Lecter" Bundle
-uplink-security-gun-lecter-desc = Case containing a standard-issue assault rifle and reserve ammunition.
+uplink-security-gun-vigil-name = MT-7 Vigil Bundle
+uplink-security-gun-vigil-desc = Case containing a standard-issue assault rifle and reserve ammunition.
 
 uplink-security-gun-drozd-name = TCA M-5 "Drozd" Bundle
 uplink-security-gun-drozd-desc = Case containing a high-caliber submachine gun and reserve ammunition.
-
-uplink-security-gun-wt550-name = WT550 Bundle
-uplink-security-gun-wt550-desc = Case containing a one-handed submachine gun and reserve ammunition.
 
 uplink-security-gun-enforcer-name = Enforcer Bundle
 uplink-security-gun-enforcer-desc = Case containing a semi-automatic shotgun and reserve ammunition.
@@ -167,8 +169,15 @@ uplink-security-gun-enforcer-desc = Case containing a semi-automatic shotgun and
 uplink-security-gun-bastion-name = "Bastion" Shotgun Bundle
 uplink-security-gun-bastion-desc = Case containing a high-caliber shotgun and reserve ammunition.
 
-uplink-security-gun-mr8t-name = MR-8T DMR Bundle
-uplink-security-gun-mr8t-desc = Case containing an accurate dedicated marskman rifle and reserve ammunition.
+uplink-security-gun-bishop-name = MT-8 Bishop Bundle
+uplink-security-gun-bishop-desc = Case containing a modern TDF marskman rifle and reserve ammunition.
 
 uplink-security-gun-riot-name = MMG-38 "Riot" Bundle
 uplink-security-gun-riot-desc = Case containing a high-capacity medium machine gun and reserve ammunition.
+
+
+uplink-security-gun-bombadier-name = HZD Bombadier Bundle
+uplink-security-gun-bombadier-desc = Case containing a grenade launcher/shotgun hybrid and reserve ammunition.
+
+uplink-security-gun-squire-name = HZD Squire Bundle
+uplink-security-gun-squire-desc = Case containing a small-caliber submachine gun and reserve ammunition. The SMG comes with a foldable stock for easier carry.
